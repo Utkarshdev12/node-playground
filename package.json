@@ -6,8 +6,10 @@
   "scripts": {
     "start": "node index.js",
     "dev": "node index.js"
-    
   },
   "author": "Utkarsh",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.8.2"
+  }
 }
