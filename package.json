@@ -1,0 +1,11 @@
+{
+  "name": "node-playground",
+  "version": "0.0.0",
+  "description": "Node js Playground- this is to explore nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Utkarsh",
+  "license": "MIT"
+}
