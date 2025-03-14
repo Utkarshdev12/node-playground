@@ -4,12 +4,20 @@
   "description": "Node js Playground- this is to explore nodejs",
   "main": "index.js",
   "scripts": {
-    "start": "node src/index.ts",
+    "start": "npx ts-node src/index.ts",
     "dev": "node index.js"
   },
   "author": "Utkarsh",
   "license": "MIT",
   "devDependencies": {
+    "@types/node": "^22.13.10",
+    "g": "^2.0.1",
+    "ig": "^0.0.5",
+    "ts-node": "^10.9.2",
     "typescript": "^5.8.2"
+  },
+  "dependencies": {
+    "@types/readline-sync": "^1.4.8",
+    "readline-sync": "^1.4.10"
   }
 }
